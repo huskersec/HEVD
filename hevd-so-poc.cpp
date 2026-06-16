@@ -5,6 +5,10 @@
 
 /*
 
+MSDN Calling DeviceIoControl C++ template:
+https://learn.microsoft.com/en-us/windows/win32/devio/calling-deviceiocontrol
+
+
 in windbg:
 
 0: kd> !ioctldecode 0x222003
